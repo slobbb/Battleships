@@ -1,0 +1,344 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Flouter\\source\\repos\\csharp\\SeaBattleGame (version 2 \u0441 \u043F\u0440\u043E\u0432\u0435\u0440\u043A\u0430\u043C\u0438 \u0438 \u043F\u043E\u0434\u0440\u043E\u0431\u043D\u0435\u0439\u0448\u0438\u043C\u0438 \u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u044F\u043C\u0438)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D939DFBF-10C1-43BB-AA5F-1762A6F30FB4}|SeaBattleGame\\SeaBattleGame.csproj|c:\\users\\flouter\\source\\repos\\csharp\\seabattlegame (version 2 \u0441 \u043F\u0440\u043E\u0432\u0435\u0440\u043A\u0430\u043C\u0438 \u0438 \u043F\u043E\u0434\u0440\u043E\u0431\u043D\u0435\u0439\u0448\u0438\u043C\u0438 \u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u044F\u043C\u0438)\\seabattlegame\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D939DFBF-10C1-43BB-AA5F-1762A6F30FB4}|SeaBattleGame\\SeaBattleGame.csproj|solutionrelative:seabattlegame\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D939DFBF-10C1-43BB-AA5F-1762A6F30FB4}|SeaBattleGame\\SeaBattleGame.csproj|C:\\Users\\Flouter\\source\\repos\\csharp\\SeaBattleGame (version 2 \u0441 \u043F\u0440\u043E\u0432\u0435\u0440\u043A\u0430\u043C\u0438 \u0438 \u043F\u043E\u0434\u0440\u043E\u0431\u043D\u0435\u0439\u0448\u0438\u043C\u0438 \u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u044F\u043C\u0438)\\seabattlegame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D939DFBF-10C1-43BB-AA5F-1762A6F30FB4}|SeaBattleGame\\SeaBattleGame.csproj|solutionrelative:seabattlegame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D939DFBF-10C1-43BB-AA5F-1762A6F30FB4}|SeaBattleGame\\SeaBattleGame.csproj|C:\\Users\\Flouter\\source\\repos\\csharp\\SeaBattleGame (version 2 \u0441 \u043F\u0440\u043E\u0432\u0435\u0440\u043A\u0430\u043C\u0438 \u0438 \u043F\u043E\u0434\u0440\u043E\u0431\u043D\u0435\u0439\u0448\u0438\u043C\u0438 \u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u044F\u043C\u0438)\\seabattlegame\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D939DFBF-10C1-43BB-AA5F-1762A6F30FB4}|SeaBattleGame\\SeaBattleGame.csproj|solutionrelative:seabattlegame\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D939DFBF-10C1-43BB-AA5F-1762A6F30FB4}|SeaBattleGame\\SeaBattleGame.csproj|C:\\Users\\Flouter\\source\\repos\\csharp\\SeaBattleGame (version 2 \u0441 \u043F\u0440\u043E\u0432\u0435\u0440\u043A\u0430\u043C\u0438 \u0438 \u043F\u043E\u0434\u0440\u043E\u0431\u043D\u0435\u0439\u0448\u0438\u043C\u0438 \u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u044F\u043C\u0438)\\seabattlegame\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D939DFBF-10C1-43BB-AA5F-1762A6F30FB4}|SeaBattleGame\\SeaBattleGame.csproj|solutionrelative:seabattlegame\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D939DFBF-10C1-43BB-AA5F-1762A6F30FB4}|SeaBattleGame\\SeaBattleGame.csproj|C:\\Users\\Flouter\\source\\repos\\csharp\\SeaBattleGame (version 2 \u0441 \u043F\u0440\u043E\u0432\u0435\u0440\u043A\u0430\u043C\u0438 \u0438 \u043F\u043E\u0434\u0440\u043E\u0431\u043D\u0435\u0439\u0448\u0438\u043C\u0438 \u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u044F\u043C\u0438)\\seabattlegame\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D939DFBF-10C1-43BB-AA5F-1762A6F30FB4}|SeaBattleGame\\SeaBattleGame.csproj|solutionrelative:seabattlegame\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D939DFBF-10C1-43BB-AA5F-1762A6F30FB4}|SeaBattleGame\\SeaBattleGame.csproj|C:\\Users\\Flouter\\source\\repos\\csharp\\SeaBattleGame (version 2 \u0441 \u043F\u0440\u043E\u0432\u0435\u0440\u043A\u0430\u043C\u0438 \u0438 \u043F\u043E\u0434\u0440\u043E\u0431\u043D\u0435\u0439\u0448\u0438\u043C\u0438 \u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u044F\u043C\u0438)\\seabattlegame\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D939DFBF-10C1-43BB-AA5F-1762A6F30FB4}|SeaBattleGame\\SeaBattleGame.csproj|solutionrelative:seabattlegame\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D939DFBF-10C1-43BB-AA5F-1762A6F30FB4}|SeaBattleGame\\SeaBattleGame.csproj|C:\\Users\\Flouter\\source\\repos\\csharp\\SeaBattleGame (version 2 \u0441 \u043F\u0440\u043E\u0432\u0435\u0440\u043A\u0430\u043C\u0438 \u0438 \u043F\u043E\u0434\u0440\u043E\u0431\u043D\u0435\u0439\u0448\u0438\u043C\u0438 \u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u044F\u043C\u0438)\\seabattlegame\\gameform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D939DFBF-10C1-43BB-AA5F-1762A6F30FB4}|SeaBattleGame\\SeaBattleGame.csproj|solutionrelative:seabattlegame\\gameform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D939DFBF-10C1-43BB-AA5F-1762A6F30FB4}|SeaBattleGame\\SeaBattleGame.csproj|C:\\Users\\Flouter\\source\\repos\\csharp\\SeaBattleGame (version 2 \u0441 \u043F\u0440\u043E\u0432\u0435\u0440\u043A\u0430\u043C\u0438 \u0438 \u043F\u043E\u0434\u0440\u043E\u0431\u043D\u0435\u0439\u0448\u0438\u043C\u0438 \u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u044F\u043C\u0438)\\seabattlegame\\settingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D939DFBF-10C1-43BB-AA5F-1762A6F30FB4}|SeaBattleGame\\SeaBattleGame.csproj|solutionrelative:seabattlegame\\settingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D939DFBF-10C1-43BB-AA5F-1762A6F30FB4}|SeaBattleGame\\SeaBattleGame.csproj|C:\\Users\\Flouter\\source\\repos\\csharp\\SeaBattleGame (version 2 \u0441 \u043F\u0440\u043E\u0432\u0435\u0440\u043A\u0430\u043C\u0438 \u0438 \u043F\u043E\u0434\u0440\u043E\u0431\u043D\u0435\u0439\u0448\u0438\u043C\u0438 \u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u044F\u043C\u0438)\\seabattlegame\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D939DFBF-10C1-43BB-AA5F-1762A6F30FB4}|SeaBattleGame\\SeaBattleGame.csproj|solutionrelative:seabattlegame\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D939DFBF-10C1-43BB-AA5F-1762A6F30FB4}|SeaBattleGame\\SeaBattleGame.csproj|C:\\Users\\Flouter\\source\\repos\\csharp\\SeaBattleGame (version 2 \u0441 \u043F\u0440\u043E\u0432\u0435\u0440\u043A\u0430\u043C\u0438 \u0438 \u043F\u043E\u0434\u0440\u043E\u0431\u043D\u0435\u0439\u0448\u0438\u043C\u0438 \u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u044F\u043C\u0438)\\seabattlegame\\settingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D939DFBF-10C1-43BB-AA5F-1762A6F30FB4}|SeaBattleGame\\SeaBattleGame.csproj|solutionrelative:seabattlegame\\settingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D939DFBF-10C1-43BB-AA5F-1762A6F30FB4}|SeaBattleGame\\SeaBattleGame.csproj|C:\\Users\\Flouter\\source\\repos\\csharp\\SeaBattleGame (version 2 \u0441 \u043F\u0440\u043E\u0432\u0435\u0440\u043A\u0430\u043C\u0438 \u0438 \u043F\u043E\u0434\u0440\u043E\u0431\u043D\u0435\u0439\u0448\u0438\u043C\u0438 \u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u044F\u043C\u0438)\\seabattlegame\\settingsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D939DFBF-10C1-43BB-AA5F-1762A6F30FB4}|SeaBattleGame\\SeaBattleGame.csproj|solutionrelative:seabattlegame\\settingsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D939DFBF-10C1-43BB-AA5F-1762A6F30FB4}|SeaBattleGame\\SeaBattleGame.csproj|C:\\Users\\Flouter\\source\\repos\\csharp\\SeaBattleGame (version 2 \u0441 \u043F\u0440\u043E\u0432\u0435\u0440\u043A\u0430\u043C\u0438 \u0438 \u043F\u043E\u0434\u0440\u043E\u0431\u043D\u0435\u0439\u0448\u0438\u043C\u0438 \u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u044F\u043C\u0438)\\seabattlegame\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{D939DFBF-10C1-43BB-AA5F-1762A6F30FB4}|SeaBattleGame\\SeaBattleGame.csproj|solutionrelative:seabattlegame\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D939DFBF-10C1-43BB-AA5F-1762A6F30FB4}|SeaBattleGame\\SeaBattleGame.csproj|C:\\Users\\Flouter\\source\\repos\\csharp\\SeaBattleGame (version 2 \u0441 \u043F\u0440\u043E\u0432\u0435\u0440\u043A\u0430\u043C\u0438 \u0438 \u043F\u043E\u0434\u0440\u043E\u0431\u043D\u0435\u0439\u0448\u0438\u043C\u0438 \u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u044F\u043C\u0438)\\seabattlegame\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D939DFBF-10C1-43BB-AA5F-1762A6F30FB4}|SeaBattleGame\\SeaBattleGame.csproj|solutionrelative:seabattlegame\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D939DFBF-10C1-43BB-AA5F-1762A6F30FB4}|SeaBattleGame\\SeaBattleGame.csproj|C:\\Users\\Flouter\\source\\repos\\csharp\\SeaBattleGame (version 2 \u0441 \u043F\u0440\u043E\u0432\u0435\u0440\u043A\u0430\u043C\u0438 \u0438 \u043F\u043E\u0434\u0440\u043E\u0431\u043D\u0435\u0439\u0448\u0438\u043C\u0438 \u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u044F\u043C\u0438)\\seabattlegame\\ship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D939DFBF-10C1-43BB-AA5F-1762A6F30FB4}|SeaBattleGame\\SeaBattleGame.csproj|solutionrelative:seabattlegame\\ship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D939DFBF-10C1-43BB-AA5F-1762A6F30FB4}|SeaBattleGame\\SeaBattleGame.csproj|C:\\Users\\Flouter\\source\\repos\\csharp\\SeaBattleGame (version 2 \u0441 \u043F\u0440\u043E\u0432\u0435\u0440\u043A\u0430\u043C\u0438 \u0438 \u043F\u043E\u0434\u0440\u043E\u0431\u043D\u0435\u0439\u0448\u0438\u043C\u0438 \u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u044F\u043C\u0438)\\seabattlegame\\mainmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D939DFBF-10C1-43BB-AA5F-1762A6F30FB4}|SeaBattleGame\\SeaBattleGame.csproj|solutionrelative:seabattlegame\\mainmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D939DFBF-10C1-43BB-AA5F-1762A6F30FB4}|SeaBattleGame\\SeaBattleGame.csproj|C:\\Users\\Flouter\\source\\repos\\csharp\\SeaBattleGame (version 2 \u0441 \u043F\u0440\u043E\u0432\u0435\u0440\u043A\u0430\u043C\u0438 \u0438 \u043F\u043E\u0434\u0440\u043E\u0431\u043D\u0435\u0439\u0448\u0438\u043C\u0438 \u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u044F\u043C\u0438)\\seabattlegame\\mainmenu.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{D939DFBF-10C1-43BB-AA5F-1762A6F30FB4}|SeaBattleGame\\SeaBattleGame.csproj|solutionrelative:seabattlegame\\mainmenu.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D939DFBF-10C1-43BB-AA5F-1762A6F30FB4}|SeaBattleGame\\SeaBattleGame.csproj|C:\\Users\\Flouter\\source\\repos\\csharp\\SeaBattleGame (version 2 \u0441 \u043F\u0440\u043E\u0432\u0435\u0440\u043A\u0430\u043C\u0438 \u0438 \u043F\u043E\u0434\u0440\u043E\u0431\u043D\u0435\u0439\u0448\u0438\u043C\u0438 \u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u044F\u043C\u0438)\\seabattlegame\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D939DFBF-10C1-43BB-AA5F-1762A6F30FB4}|SeaBattleGame\\SeaBattleGame.csproj|solutionrelative:seabattlegame\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D939DFBF-10C1-43BB-AA5F-1762A6F30FB4}|SeaBattleGame\\SeaBattleGame.csproj|C:\\Users\\Flouter\\source\\repos\\csharp\\SeaBattleGame (version 2 \u0441 \u043F\u0440\u043E\u0432\u0435\u0440\u043A\u0430\u043C\u0438 \u0438 \u043F\u043E\u0434\u0440\u043E\u0431\u043D\u0435\u0439\u0448\u0438\u043C\u0438 \u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u044F\u043C\u0438)\\seabattlegame\\gameform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{D939DFBF-10C1-43BB-AA5F-1762A6F30FB4}|SeaBattleGame\\SeaBattleGame.csproj|solutionrelative:seabattlegame\\gameform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameForm.cs",
+              "DocumentMoniker": "C:\\Users\\Flouter\\source\\repos\\csharp\\SeaBattleGame (version 2 \u0441 \u043F\u0440\u043E\u0432\u0435\u0440\u043A\u0430\u043C\u0438 \u0438 \u043F\u043E\u0434\u0440\u043E\u0431\u043D\u0435\u0439\u0448\u0438\u043C\u0438 \u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u044F\u043C\u0438)\\SeaBattleGame\\GameForm.cs",
+              "RelativeDocumentMoniker": "SeaBattleGame\\GameForm.cs",
+              "ToolTip": "C:\\Users\\Flouter\\source\\repos\\csharp\\SeaBattleGame (version 2 \u0441 \u043F\u0440\u043E\u0432\u0435\u0440\u043A\u0430\u043C\u0438 \u0438 \u043F\u043E\u0434\u0440\u043E\u0431\u043D\u0435\u0439\u0448\u0438\u043C\u0438 \u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u044F\u043C\u0438)\\SeaBattleGame\\GameForm.cs",
+              "RelativeToolTip": "SeaBattleGame\\GameForm.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T09:50:32.483Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Flouter\\source\\repos\\csharp\\SeaBattleGame (version 2 \u0441 \u043F\u0440\u043E\u0432\u0435\u0440\u043A\u0430\u043C\u0438 \u0438 \u043F\u043E\u0434\u0440\u043E\u0431\u043D\u0435\u0439\u0448\u0438\u043C\u0438 \u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u044F\u043C\u0438)\\SeaBattleGame\\MainMenu.cs",
+              "RelativeDocumentMoniker": "SeaBattleGame\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\Flouter\\source\\repos\\csharp\\SeaBattleGame (version 2 \u0441 \u043F\u0440\u043E\u0432\u0435\u0440\u043A\u0430\u043C\u0438 \u0438 \u043F\u043E\u0434\u0440\u043E\u0431\u043D\u0435\u0439\u0448\u0438\u043C\u0438 \u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u044F\u043C\u0438)\\SeaBattleGame\\MainMenu.cs",
+              "RelativeToolTip": "SeaBattleGame\\MainMenu.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T09:49:04.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Flouter\\source\\repos\\csharp\\SeaBattleGame (version 2 \u0441 \u043F\u0440\u043E\u0432\u0435\u0440\u043A\u0430\u043C\u0438 \u0438 \u043F\u043E\u0434\u0440\u043E\u0431\u043D\u0435\u0439\u0448\u0438\u043C\u0438 \u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u044F\u043C\u0438)\\SeaBattleGame\\GameForm.Designer.cs",
+              "RelativeDocumentMoniker": "SeaBattleGame\\GameForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Flouter\\source\\repos\\csharp\\SeaBattleGame (version 2 \u0441 \u043F\u0440\u043E\u0432\u0435\u0440\u043A\u0430\u043C\u0438 \u0438 \u043F\u043E\u0434\u0440\u043E\u0431\u043D\u0435\u0439\u0448\u0438\u043C\u0438 \u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u044F\u043C\u0438)\\SeaBattleGame\\GameForm.Designer.cs",
+              "RelativeToolTip": "SeaBattleGame\\GameForm.Designer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T09:50:43.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Flouter\\source\\repos\\csharp\\SeaBattleGame (version 2 \u0441 \u043F\u0440\u043E\u0432\u0435\u0440\u043A\u0430\u043C\u0438 \u0438 \u043F\u043E\u0434\u0440\u043E\u0431\u043D\u0435\u0439\u0448\u0438\u043C\u0438 \u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u044F\u043C\u0438)\\SeaBattleGame\\GameForm.cs",
+              "RelativeDocumentMoniker": "SeaBattleGame\\GameForm.cs",
+              "ToolTip": "C:\\Users\\Flouter\\source\\repos\\csharp\\SeaBattleGame (version 2 \u0441 \u043F\u0440\u043E\u0432\u0435\u0440\u043A\u0430\u043C\u0438 \u0438 \u043F\u043E\u0434\u0440\u043E\u0431\u043D\u0435\u0439\u0448\u0438\u043C\u0438 \u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u044F\u043C\u0438)\\SeaBattleGame\\GameForm.cs [Design]",
+              "RelativeToolTip": "SeaBattleGame\\GameForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T09:50:24.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Board.cs",
+              "DocumentMoniker": "C:\\Users\\Flouter\\source\\repos\\csharp\\SeaBattleGame (version 2 \u0441 \u043F\u0440\u043E\u0432\u0435\u0440\u043A\u0430\u043C\u0438 \u0438 \u043F\u043E\u0434\u0440\u043E\u0431\u043D\u0435\u0439\u0448\u0438\u043C\u0438 \u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u044F\u043C\u0438)\\SeaBattleGame\\Board.cs",
+              "RelativeDocumentMoniker": "SeaBattleGame\\Board.cs",
+              "ToolTip": "C:\\Users\\Flouter\\source\\repos\\csharp\\SeaBattleGame (version 2 \u0441 \u043F\u0440\u043E\u0432\u0435\u0440\u043A\u0430\u043C\u0438 \u0438 \u043F\u043E\u0434\u0440\u043E\u0431\u043D\u0435\u0439\u0448\u0438\u043C\u0438 \u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u044F\u043C\u0438)\\SeaBattleGame\\Board.cs",
+              "RelativeToolTip": "SeaBattleGame\\Board.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T09:54:02.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\Flouter\\source\\repos\\csharp\\SeaBattleGame (version 2 \u0441 \u043F\u0440\u043E\u0432\u0435\u0440\u043A\u0430\u043C\u0438 \u0438 \u043F\u043E\u0434\u0440\u043E\u0431\u043D\u0435\u0439\u0448\u0438\u043C\u0438 \u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u044F\u043C\u0438)\\SeaBattleGame\\Game.cs",
+              "RelativeDocumentMoniker": "SeaBattleGame\\Game.cs",
+              "ToolTip": "C:\\Users\\Flouter\\source\\repos\\csharp\\SeaBattleGame (version 2 \u0441 \u043F\u0440\u043E\u0432\u0435\u0440\u043A\u0430\u043C\u0438 \u0438 \u043F\u043E\u0434\u0440\u043E\u0431\u043D\u0435\u0439\u0448\u0438\u043C\u0438 \u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u044F\u043C\u0438)\\SeaBattleGame\\Game.cs",
+              "RelativeToolTip": "SeaBattleGame\\Game.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T09:54:26.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Flouter\\source\\repos\\csharp\\SeaBattleGame (version 2 \u0441 \u043F\u0440\u043E\u0432\u0435\u0440\u043A\u0430\u043C\u0438 \u0438 \u043F\u043E\u0434\u0440\u043E\u0431\u043D\u0435\u0439\u0448\u0438\u043C\u0438 \u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u044F\u043C\u0438)\\SeaBattleGame\\Program.cs",
+              "RelativeDocumentMoniker": "SeaBattleGame\\Program.cs",
+              "ToolTip": "C:\\Users\\Flouter\\source\\repos\\csharp\\SeaBattleGame (version 2 \u0441 \u043F\u0440\u043E\u0432\u0435\u0440\u043A\u0430\u043C\u0438 \u0438 \u043F\u043E\u0434\u0440\u043E\u0431\u043D\u0435\u0439\u0448\u0438\u043C\u0438 \u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u044F\u043C\u0438)\\SeaBattleGame\\Program.cs",
+              "RelativeToolTip": "SeaBattleGame\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T11:35:47.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Flouter\\source\\repos\\csharp\\SeaBattleGame (version 2 \u0441 \u043F\u0440\u043E\u0432\u0435\u0440\u043A\u0430\u043C\u0438 \u0438 \u043F\u043E\u0434\u0440\u043E\u0431\u043D\u0435\u0439\u0448\u0438\u043C\u0438 \u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u044F\u043C\u0438)\\SeaBattleGame\\MainMenu.cs",
+              "RelativeDocumentMoniker": "SeaBattleGame\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\Flouter\\source\\repos\\csharp\\SeaBattleGame (version 2 \u0441 \u043F\u0440\u043E\u0432\u0435\u0440\u043A\u0430\u043C\u0438 \u0438 \u043F\u043E\u0434\u0440\u043E\u0431\u043D\u0435\u0439\u0448\u0438\u043C\u0438 \u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u044F\u043C\u0438)\\SeaBattleGame\\MainMenu.cs [Design]",
+              "RelativeToolTip": "SeaBattleGame\\MainMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T09:49:02.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SettingsForm.cs",
+              "DocumentMoniker": "C:\\Users\\Flouter\\source\\repos\\csharp\\SeaBattleGame (version 2 \u0441 \u043F\u0440\u043E\u0432\u0435\u0440\u043A\u0430\u043C\u0438 \u0438 \u043F\u043E\u0434\u0440\u043E\u0431\u043D\u0435\u0439\u0448\u0438\u043C\u0438 \u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u044F\u043C\u0438)\\SeaBattleGame\\SettingsForm.cs",
+              "RelativeDocumentMoniker": "SeaBattleGame\\SettingsForm.cs",
+              "ToolTip": "C:\\Users\\Flouter\\source\\repos\\csharp\\SeaBattleGame (version 2 \u0441 \u043F\u0440\u043E\u0432\u0435\u0440\u043A\u0430\u043C\u0438 \u0438 \u043F\u043E\u0434\u0440\u043E\u0431\u043D\u0435\u0439\u0448\u0438\u043C\u0438 \u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u044F\u043C\u0438)\\SeaBattleGame\\SettingsForm.cs",
+              "RelativeToolTip": "SeaBattleGame\\SettingsForm.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T10:22:17.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SettingsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Flouter\\source\\repos\\csharp\\SeaBattleGame (version 2 \u0441 \u043F\u0440\u043E\u0432\u0435\u0440\u043A\u0430\u043C\u0438 \u0438 \u043F\u043E\u0434\u0440\u043E\u0431\u043D\u0435\u0439\u0448\u0438\u043C\u0438 \u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u044F\u043C\u0438)\\SeaBattleGame\\SettingsForm.cs",
+              "RelativeDocumentMoniker": "SeaBattleGame\\SettingsForm.cs",
+              "ToolTip": "C:\\Users\\Flouter\\source\\repos\\csharp\\SeaBattleGame (version 2 \u0441 \u043F\u0440\u043E\u0432\u0435\u0440\u043A\u0430\u043C\u0438 \u0438 \u043F\u043E\u0434\u0440\u043E\u0431\u043D\u0435\u0439\u0448\u0438\u043C\u0438 \u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u044F\u043C\u0438)\\SeaBattleGame\\SettingsForm.cs [Design]",
+              "RelativeToolTip": "SeaBattleGame\\SettingsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T10:22:14.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SettingsForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Flouter\\source\\repos\\csharp\\SeaBattleGame (version 2 \u0441 \u043F\u0440\u043E\u0432\u0435\u0440\u043A\u0430\u043C\u0438 \u0438 \u043F\u043E\u0434\u0440\u043E\u0431\u043D\u0435\u0439\u0448\u0438\u043C\u0438 \u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u044F\u043C\u0438)\\SeaBattleGame\\SettingsForm.Designer.cs",
+              "RelativeDocumentMoniker": "SeaBattleGame\\SettingsForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Flouter\\source\\repos\\csharp\\SeaBattleGame (version 2 \u0441 \u043F\u0440\u043E\u0432\u0435\u0440\u043A\u0430\u043C\u0438 \u0438 \u043F\u043E\u0434\u0440\u043E\u0431\u043D\u0435\u0439\u0448\u0438\u043C\u0438 \u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u044F\u043C\u0438)\\SeaBattleGame\\SettingsForm.Designer.cs",
+              "RelativeToolTip": "SeaBattleGame\\SettingsForm.Designer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T10:26:21.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "C:\\Users\\Flouter\\source\\repos\\csharp\\SeaBattleGame (version 2 \u0441 \u043F\u0440\u043E\u0432\u0435\u0440\u043A\u0430\u043C\u0438 \u0438 \u043F\u043E\u0434\u0440\u043E\u0431\u043D\u0435\u0439\u0448\u0438\u043C\u0438 \u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u044F\u043C\u0438)\\SeaBattleGame\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "SeaBattleGame\\Properties\\Settings.settings",
+              "ToolTip": "C:\\Users\\Flouter\\source\\repos\\csharp\\SeaBattleGame (version 2 \u0441 \u043F\u0440\u043E\u0432\u0435\u0440\u043A\u0430\u043C\u0438 \u0438 \u043F\u043E\u0434\u0440\u043E\u0431\u043D\u0435\u0439\u0448\u0438\u043C\u0438 \u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u044F\u043C\u0438)\\SeaBattleGame\\Properties\\Settings.settings",
+              "RelativeToolTip": "SeaBattleGame\\Properties\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2024-06-18T12:55:58.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Settings.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Flouter\\source\\repos\\csharp\\SeaBattleGame (version 2 \u0441 \u043F\u0440\u043E\u0432\u0435\u0440\u043A\u0430\u043C\u0438 \u0438 \u043F\u043E\u0434\u0440\u043E\u0431\u043D\u0435\u0439\u0448\u0438\u043C\u0438 \u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u044F\u043C\u0438)\\SeaBattleGame\\Properties\\Settings.Designer.cs",
+              "RelativeDocumentMoniker": "SeaBattleGame\\Properties\\Settings.Designer.cs",
+              "ToolTip": "C:\\Users\\Flouter\\source\\repos\\csharp\\SeaBattleGame (version 2 \u0441 \u043F\u0440\u043E\u0432\u0435\u0440\u043A\u0430\u043C\u0438 \u0438 \u043F\u043E\u0434\u0440\u043E\u0431\u043D\u0435\u0439\u0448\u0438\u043C\u0438 \u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u044F\u043C\u0438)\\SeaBattleGame\\Properties\\Settings.Designer.cs",
+              "RelativeToolTip": "SeaBattleGame\\Properties\\Settings.Designer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T20:03:24.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Ship.cs",
+              "DocumentMoniker": "C:\\Users\\Flouter\\source\\repos\\csharp\\SeaBattleGame (version 2 \u0441 \u043F\u0440\u043E\u0432\u0435\u0440\u043A\u0430\u043C\u0438 \u0438 \u043F\u043E\u0434\u0440\u043E\u0431\u043D\u0435\u0439\u0448\u0438\u043C\u0438 \u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u044F\u043C\u0438)\\SeaBattleGame\\Ship.cs",
+              "RelativeDocumentMoniker": "SeaBattleGame\\Ship.cs",
+              "ToolTip": "C:\\Users\\Flouter\\source\\repos\\csharp\\SeaBattleGame (version 2 \u0441 \u043F\u0440\u043E\u0432\u0435\u0440\u043A\u0430\u043C\u0438 \u0438 \u043F\u043E\u0434\u0440\u043E\u0431\u043D\u0435\u0439\u0448\u0438\u043C\u0438 \u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u044F\u043C\u0438)\\SeaBattleGame\\Ship.cs",
+              "RelativeToolTip": "SeaBattleGame\\Ship.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T09:52:59.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainMenu.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Flouter\\source\\repos\\csharp\\SeaBattleGame (version 2 \u0441 \u043F\u0440\u043E\u0432\u0435\u0440\u043A\u0430\u043C\u0438 \u0438 \u043F\u043E\u0434\u0440\u043E\u0431\u043D\u0435\u0439\u0448\u0438\u043C\u0438 \u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u044F\u043C\u0438)\\SeaBattleGame\\MainMenu.Designer.cs",
+              "RelativeDocumentMoniker": "SeaBattleGame\\MainMenu.Designer.cs",
+              "ToolTip": "C:\\Users\\Flouter\\source\\repos\\csharp\\SeaBattleGame (version 2 \u0441 \u043F\u0440\u043E\u0432\u0435\u0440\u043A\u0430\u043C\u0438 \u0438 \u043F\u043E\u0434\u0440\u043E\u0431\u043D\u0435\u0439\u0448\u0438\u043C\u0438 \u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u044F\u043C\u0438)\\SeaBattleGame\\MainMenu.Designer.cs",
+              "RelativeToolTip": "SeaBattleGame\\MainMenu.Designer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T09:49:13.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainMenu.resx",
+              "DocumentMoniker": "C:\\Users\\Flouter\\source\\repos\\csharp\\SeaBattleGame (version 2 \u0441 \u043F\u0440\u043E\u0432\u0435\u0440\u043A\u0430\u043C\u0438 \u0438 \u043F\u043E\u0434\u0440\u043E\u0431\u043D\u0435\u0439\u0448\u0438\u043C\u0438 \u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u044F\u043C\u0438)\\SeaBattleGame\\MainMenu.resx",
+              "RelativeDocumentMoniker": "SeaBattleGame\\MainMenu.resx",
+              "ToolTip": "C:\\Users\\Flouter\\source\\repos\\csharp\\SeaBattleGame (version 2 \u0441 \u043F\u0440\u043E\u0432\u0435\u0440\u043A\u0430\u043C\u0438 \u0438 \u043F\u043E\u0434\u0440\u043E\u0431\u043D\u0435\u0439\u0448\u0438\u043C\u0438 \u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u044F\u043C\u0438)\\SeaBattleGame\\MainMenu.resx",
+              "RelativeToolTip": "SeaBattleGame\\MainMenu.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-18T13:49:57.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\Flouter\\source\\repos\\csharp\\SeaBattleGame (version 2 \u0441 \u043F\u0440\u043E\u0432\u0435\u0440\u043A\u0430\u043C\u0438 \u0438 \u043F\u043E\u0434\u0440\u043E\u0431\u043D\u0435\u0439\u0448\u0438\u043C\u0438 \u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u044F\u043C\u0438)\\SeaBattleGame\\packages.config",
+              "RelativeDocumentMoniker": "SeaBattleGame\\packages.config",
+              "ToolTip": "C:\\Users\\Flouter\\source\\repos\\csharp\\SeaBattleGame (version 2 \u0441 \u043F\u0440\u043E\u0432\u0435\u0440\u043A\u0430\u043C\u0438 \u0438 \u043F\u043E\u0434\u0440\u043E\u0431\u043D\u0435\u0439\u0448\u0438\u043C\u0438 \u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u044F\u043C\u0438)\\SeaBattleGame\\packages.config",
+              "RelativeToolTip": "SeaBattleGame\\packages.config",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-18T13:48:38.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GameForm.resx",
+              "DocumentMoniker": "C:\\Users\\Flouter\\source\\repos\\csharp\\SeaBattleGame (version 2 \u0441 \u043F\u0440\u043E\u0432\u0435\u0440\u043A\u0430\u043C\u0438 \u0438 \u043F\u043E\u0434\u0440\u043E\u0431\u043D\u0435\u0439\u0448\u0438\u043C\u0438 \u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u044F\u043C\u0438)\\SeaBattleGame\\GameForm.resx",
+              "RelativeDocumentMoniker": "SeaBattleGame\\GameForm.resx",
+              "ToolTip": "C:\\Users\\Flouter\\source\\repos\\csharp\\SeaBattleGame (version 2 \u0441 \u043F\u0440\u043E\u0432\u0435\u0440\u043A\u0430\u043C\u0438 \u0438 \u043F\u043E\u0434\u0440\u043E\u0431\u043D\u0435\u0439\u0448\u0438\u043C\u0438 \u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u044F\u043C\u0438)\\SeaBattleGame\\GameForm.resx",
+              "RelativeToolTip": "SeaBattleGame\\GameForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-17T13:08:48.649Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+C:\Users\Flouter\source\repos\csharp\SeaBattleGame\SeaBattleGame\bin\Debug\SeaBattleGame.exe.config
+C:\Users\Flouter\source\repos\csharp\SeaBattleGame\SeaBattleGame\bin\Debug\SeaBattleGame.exe
+C:\Users\Flouter\source\repos\csharp\SeaBattleGame\SeaBattleGame\bin\Debug\SeaBattleGame.pdb
+C:\Users\Flouter\source\repos\csharp\SeaBattleGame\SeaBattleGame\obj\Debug\SeaBattleGame.csproj.AssemblyReference.cache
+C:\Users\Flouter\source\repos\csharp\SeaBattleGame\SeaBattleGame\obj\Debug\SeaBattleGame.Properties.Resources.resources
+C:\Users\Flouter\source\repos\csharp\SeaBattleGame\SeaBattleGame\obj\Debug\SeaBattleGame.csproj.GenerateResource.cache
+C:\Users\Flouter\source\repos\csharp\SeaBattleGame\SeaBattleGame\obj\Debug\SeaBattleGame.csproj.CoreCompileInputs.cache
+C:\Users\Flouter\source\repos\csharp\SeaBattleGame\SeaBattleGame\obj\Debug\SeaBattleGame.exe
+C:\Users\Flouter\source\repos\csharp\SeaBattleGame\SeaBattleGame\obj\Debug\SeaBattleGame.pdb
+C:\Users\Flouter\source\repos\csharp\SeaBattleGame\SeaBattleGame\obj\Debug\GameForm.resources
+C:\Users\Flouter\source\repos\csharp\SeaBattleGame\SeaBattleGame\obj\Debug\MainMenu.resources
+C:\Users\Flouter\source\repos\csharp\SeaBattleGame\SeaBattleGame\bin\Debug\Resources\hit.png
+C:\Users\Flouter\source\repos\csharp\SeaBattleGame\SeaBattleGame\bin\Debug\Resources\miss.png
+C:\Users\Flouter\source\repos\csharp\SeaBattleGame (version 2 с проверками и подробнейшими комментариями)\SeaBattleGame\bin\Debug\Resources\hit.png
+C:\Users\Flouter\source\repos\csharp\SeaBattleGame (version 2 с проверками и подробнейшими комментариями)\SeaBattleGame\bin\Debug\Resources\miss.png
+C:\Users\Flouter\source\repos\csharp\SeaBattleGame (version 2 с проверками и подробнейшими комментариями)\SeaBattleGame\bin\Debug\SeaBattleGame.exe.config
+C:\Users\Flouter\source\repos\csharp\SeaBattleGame (version 2 с проверками и подробнейшими комментариями)\SeaBattleGame\bin\Debug\SeaBattleGame.exe
+C:\Users\Flouter\source\repos\csharp\SeaBattleGame (version 2 с проверками и подробнейшими комментариями)\SeaBattleGame\bin\Debug\SeaBattleGame.pdb
+C:\Users\Flouter\source\repos\csharp\SeaBattleGame (version 2 с проверками и подробнейшими комментариями)\SeaBattleGame\bin\Debug\MaterialSkin.dll
+C:\Users\Flouter\source\repos\csharp\SeaBattleGame (version 2 с проверками и подробнейшими комментариями)\SeaBattleGame\obj\Debug\SeaBattleGame.csproj.AssemblyReference.cache
+C:\Users\Flouter\source\repos\csharp\SeaBattleGame (version 2 с проверками и подробнейшими комментариями)\SeaBattleGame\obj\Debug\GameForm.resources
+C:\Users\Flouter\source\repos\csharp\SeaBattleGame (version 2 с проверками и подробнейшими комментариями)\SeaBattleGame\obj\Debug\MainMenu.resources
+C:\Users\Flouter\source\repos\csharp\SeaBattleGame (version 2 с проверками и подробнейшими комментариями)\SeaBattleGame\obj\Debug\SeaBattleGame.Properties.Resources.resources
+C:\Users\Flouter\source\repos\csharp\SeaBattleGame (version 2 с проверками и подробнейшими комментариями)\SeaBattleGame\obj\Debug\SettingsForm.resources
+C:\Users\Flouter\source\repos\csharp\SeaBattleGame (version 2 с проверками и подробнейшими комментариями)\SeaBattleGame\obj\Debug\SeaBattleGame.csproj.GenerateResource.cache
+C:\Users\Flouter\source\repos\csharp\SeaBattleGame (version 2 с проверками и подробнейшими комментариями)\SeaBattleGame\obj\Debug\SeaBattleGame.csproj.CoreCompileInputs.cache
+C:\Users\Flouter\source\repos\csharp\SeaBattleGame (version 2 с проверками и подробнейшими комментариями)\SeaBattleGame\obj\Debug\SeaBattl.0A5C2C2E.Up2Date
+C:\Users\Flouter\source\repos\csharp\SeaBattleGame (version 2 с проверками и подробнейшими комментариями)\SeaBattleGame\obj\Debug\SeaBattleGame.exe
+C:\Users\Flouter\source\repos\csharp\SeaBattleGame (version 2 с проверками и подробнейшими комментариями)\SeaBattleGame\obj\Debug\SeaBattleGame.pdb
+C:\Users\Flouter\source\repos\csharp\SeaBattleGame (version 2 с проверками и подробнейшими комментариями)\SeaBattleGame\bin\Debug\Resources\hit.wav
+C:\Users\Flouter\source\repos\csharp\SeaBattleGame (version 2 с проверками и подробнейшими комментариями)\SeaBattleGame\bin\Debug\Resources\miss.wav
+C:\Users\Flouter\source\repos\csharp\SeaBattleGame (version 2 с проверками и подробнейшими комментариями)\SeaBattleGame\bin\Debug\Resources\background_music.wav
